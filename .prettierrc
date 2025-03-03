@@ -1,0 +1,14 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "useTabs": false,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "jsxBracketSameLine": true,
+  "trailingComma": "none",
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "endOfLine": "auto"
+}
