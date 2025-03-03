@@ -7,7 +7,7 @@ export interface TabItem {
 export const tabData: TabItem[] = [
     {
         id: 1,
-        tabName: 'Home',
+        tabName: '',
         path: 'home'
     },
     {
@@ -17,12 +17,22 @@ export const tabData: TabItem[] = [
     },
     {
         id: 3,
+        tabName: 'Skill',
+        path: 'skill'
+    },
+    {
+        id: 4,
+        tabName: 'Education',
+        path: 'education'
+    },
+    {
+        id: 5,
         tabName: 'Experience',
         path: 'experience'
 
     },
     {
-        id: 4,
+        id: 6,
         tabName: 'Contact',
         path: 'contact'
     }
